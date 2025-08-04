@@ -27,7 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Aster is a senior at Brown University pursuing a B.S.c in Astrophysics."
   location         : "Earth"
-  employer         : "Brown University, Northwestern University"
+  employer         : "Brown University"
+  employer         : "Northwestern University"
   uri              : # URL
   email            : "aster_winkler@brown.edu" 
 
