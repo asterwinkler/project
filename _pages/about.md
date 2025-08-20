@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "Synethetic Observations of Globular Cluster Stellar Streams"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This summer, I am working with Professor Tjitske Starkenburg at Northwestern University's Center for Interdisciplinary Exploration and Research in Astrophysics (CIERA) as an REU student. I am conducting synthetic observations of globular cluster stellar streams using the (simulated) optics of the Nancy Grace Roman space telescope, in order to better understand what this instrument might see when studying these exciting objects.
+My name is Aster Winkler, and I am a senior at [Brown University] (https://www.brown.edu/) studying astrophysics. My research interests are in large scale structure; galaxy formation, evolution, and structure; and probes thereof. 
+
+At Brown I am a member of the [Observational Cosmology, Gravitational Lensing, and Astrophysics Research Group] (https://sites.brown.edu/astrolensing/), where my work is on detecting the weak gravitational lensing signals of galaxy filaments. As a member of the 2025 cohort of the [CIERA] (https://ciera.northwestern.edu/) REU at Northwestern, I work on creating mock observations of simulated globular cluster stellar streams using the optics and bands of the Wide Field Instrument of the Nancy Grace Roman
+space telescope.
