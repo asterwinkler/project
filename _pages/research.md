@@ -15,5 +15,5 @@ We first study the internal stream structure and composition for both streams, i
 
 ## Presentations
 The initial results were compiled into a poster at the end of the program:
-![Stellar Streams Research Poster]({{ base_path }}/images/REU_Poster_Winkler.pdf)
+![Stellar Streams Research Poster]({{ base_path }}/images/REU_Poster_Winkler.png)
 
