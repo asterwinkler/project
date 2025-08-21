@@ -7,6 +7,8 @@ author_profile: true
 {% include toc %}
 {% include base_path %}
 
+As a member of the 2025 cohort of the Northwestern CIERA REU, I worked with Dr. Tjitske Starkenburg on performing a synthetic observation of the stellar streams produced by globular clusters.
+
 ## Introduction
 Stellar streams are long, thin collections of stars which have been tidally stripped from a smaller object, such as a dwarf galaxy or globular cluster, by the galaxy the object orbits. As these streams orbit their host galaxies, their substructures, overall morphology, and stellar populations can provide insight on stellar halo structure, a galaxy’s dark matter distribution, and early star and galaxy formation in the Universe. As relatively dim objects located in the halos of more luminous galaxies, stellar streams are difficult to observe; as a result, testing the limits of upcoming instrumentation is crucial in both predicting what observations are possible and in interpreting data once an observation has been made. We conduct a synthetic observation of two simulated stellar streams modeled on a star-by-star basis in Panithanpaisal et al. (in prep) from the post-processed globular cluster population constructed by Grudić et al. (2023) and Rodriguez et al. (2023) using the FIRE-2 cosmological simulation. After studying the stellar populations of each stream, we simulate how the streams might appear to the Wide Field Instrument of the Nancy Grace Roman Telescope should they be located in the Andromeda Galaxy, thereby assessing whether this instrument will be able to observe extragalactic stellar streams.
 
